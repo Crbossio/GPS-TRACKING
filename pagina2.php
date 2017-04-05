@@ -84,7 +84,7 @@ $json2[] = $zeile2;
  
     <div class="col-md-4">
         <h2 style = "color: #110111">Fecha por donde pasó el camión</h2> 
-        <input id="ex6" type="text" data-slider-min="0" data-slider-max="4000" data-slider-step="1" data-slider-value="0" data-slider-tooltip="hide"/ data-slider-enabled="true">
+        <input id="ex6" type="text" data-slider-min="0" data-slider-max="40000" data-slider-step="1" data-slider-value="0" data-slider-tooltip="hide"/ data-slider-enabled="true">
         
        
         <br>
