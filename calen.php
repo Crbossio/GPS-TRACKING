@@ -59,11 +59,11 @@
       <div class="collapse navbar-collapse" id="navigation-bar">
         <div class="nav navbar-nav navbar-right">
           <li class="active">
-          <a href="/GPSviewer3/calen.html">Históricos</a>
+          <a href="/GPSviewer3/calen.php">Históricos</a>
              <!-- href='#' intercambio el # por la dirección a la que quiero enviarlo-->
           </li>
           <li>
-            <a href="/GPSviewer3/index.html">Tiempo Real</a>
+            <a href="/GPSviewer3/index.php">Tiempo Real</a>
           </li>
           
         </div>
