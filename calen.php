@@ -200,7 +200,7 @@ $json[] = $zeile;
 //---------------------------------------------
 // ###############################
 
-var val_act_slider;
+
  var marcador2 = null;
  var limsup= polyline_data.length-1;
     limsup = .length - 1;
