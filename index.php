@@ -80,10 +80,10 @@
       <div class="collapse navbar-collapse" id="navigation-bar">
         <div class="nav navbar-nav navbar-right">
           <li class="active">
-            <a href="/GPSviewer3/index.html">Tiempo Real</a> <!-- href='#' intercambio el # por la dirección a la que quiero enviarlo-->
+            <a href="/index.html">Tiempo Real</a> <!-- href='#' intercambio el # por la dirección a la que quiero enviarlo-->
           </li>
           <li>
-            <a href="/GPSviewer3/calen.html">Históricos</a>
+            <a href="/calen.php">Históricos</a>
           </li>
           
         </div>
